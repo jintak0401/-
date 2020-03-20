@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: d27e82b20346fd747917a83771702aa1
+timeCreated: 1478878246
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: up_canon_0
+    21300002: up_canon_1
+    21300004: up_canon_2
+    21300006: up_canon_3
+    21300008: up_canon_4
+    21300010: up_canon_5
+    21300012: up_canon_6
+    21300014: up_canon_7
+    21300016: up_canon_8
+    21300018: up_canon_9
+    21300020: up_canon_10
+    21300022: up_canon_11
+    21300024: up_canon_12
+    21300026: up_canon_13
+    21300028: up_canon_14
+    21300030: up_canon_15
+    21300032: up_canon_16
+    21300034: up_canon_17
+    21300036: up_canon_18
+    21300038: up_canon_19
+    21300040: up_canon_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: up_canon_0
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 2534
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1823
+        width: 324
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1823
+        width: 326
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_3
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1823
+        width: 325
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_4
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1823
+        width: 324
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1367
+        width: 324
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1367
+        width: 326
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_7
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1367
+        width: 325
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_8
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1367
+        width: 324
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911
+        width: 324
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 911
+        width: 326
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_11
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 911
+        width: 325
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_12
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 911
+        width: 324
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 324
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 455
+        width: 326
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_15
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 455
+        width: 325
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_16
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 455
+        width: 324
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 324
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_18
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 326
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_19
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 325
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up_canon_20
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 0
+        width: 324
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

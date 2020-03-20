@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: f5ca750059d0b7f429c6e5c93bc8bce9
+timeCreated: 1479979873
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Number_Tile_0
+    21300002: Number_Tile_1
+    21300004: Number_Tile_2
+    21300006: Number_Tile_3
+    21300008: Number_Tile_4
+    21300010: Number_Tile_5
+    21300012: Number_Tile_6
+    21300014: Number_Tile_7
+    21300016: Number_Tile_8
+    21300018: Number_Tile_9
+    21300020: Number_Tile_10
+    21300022: Number_Tile_11
+    21300024: Number_Tile_12
+    21300026: Number_Tile_13
+    21300028: Number_Tile_14
+    21300030: Number_Tile_15
+    21300032: Number_Tile_16
+    21300034: Number_Tile_17
+    21300036: Number_Tile_18
+    21300038: Number_Tile_19
+    21300040: Number_Tile_20
+    21300042: Number_Tile_21
+    21300044: Number_Tile_22
+    21300046: Number_Tile_23
+    21300048: Number_Tile_24
+    21300050: Number_Tile_25
+    21300052: Number_Tile_26
+    21300054: Number_Tile_27
+    21300056: Number_Tile_28
+    21300058: Number_Tile_29
+    21300060: Number_Tile_30
+    21300062: Number_Tile_31
+    21300064: Number_Tile_32
+    21300066: Number_Tile_33
+    21300068: Number_Tile_34
+    21300070: Number_Tile_35
+    21300072: Number_Tile_36
+    21300074: Number_Tile_37
+    21300076: Number_Tile_38
+    21300078: Number_Tile_39
+    21300080: Number_Tile_40
+    21300082: Number_Tile_41
+    21300084: Number_Tile_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Number_Tile_0
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 552
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_1
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 552
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 552
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_8
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_9
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_10
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_11
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_12
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_13
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_14
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_15
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 435
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 311
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 311
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 311
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 311
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_21
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 311
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_22
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 311
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_23
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 311
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_24
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 311
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 311
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_26
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 311
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 125
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 125
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 125
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_31
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 125
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_32
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 125
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_33
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 125
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_34
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 125
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_35
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 125
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_36
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 125
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_37
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 125
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_38
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 125
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Number_Tile_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

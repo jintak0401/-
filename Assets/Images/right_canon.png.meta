@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: d5e71da2b3061aa47997b84c25e0f6f1
+timeCreated: 1478878215
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: right_canon_0
+    21300002: right_canon_1
+    21300004: right_canon_2
+    21300006: right_canon_3
+    21300008: right_canon_4
+    21300010: right_canon_5
+    21300012: right_canon_6
+    21300014: right_canon_7
+    21300016: right_canon_8
+    21300018: right_canon_9
+    21300020: right_canon_10
+    21300022: right_canon_11
+    21300024: right_canon_12
+    21300026: right_canon_13
+    21300028: right_canon_14
+    21300030: right_canon_15
+    21300032: right_canon_16
+    21300034: right_canon_17
+    21300036: right_canon_18
+    21300038: right_canon_19
+    21300040: right_canon_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right_canon_0
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2490
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806
+        width: 379
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1806
+        width: 380
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_3
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1806
+        width: 380
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_4
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1806
+        width: 380
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1354
+        width: 379
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1354
+        width: 380
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_7
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1354
+        width: 380
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_8
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1354
+        width: 380
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 903
+        width: 379
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_10
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 903
+        width: 380
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_11
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 903
+        width: 380
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_12
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 903
+        width: 380
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 379
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 450
+        width: 380
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_15
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 450
+        width: 380
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_16
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 450
+        width: 380
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 379
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_18
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 380
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_19
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 0
+        width: 380
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_canon_20
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 0
+        width: 380
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
